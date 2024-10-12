@@ -25,7 +25,8 @@ This project is a simple song listening platform built using XAMPP for local dev
    ```bash
    git clone https://github.com/your-username/song-listening-platform.git
 
-![Screenshot (731)](https://github.com/user-attachments/ass![Screenshot (732)](https://github.com/user-attachments/assets/91962115-5b5c-4aa6-9f94-b22b46c02502)
-ets/b137b41f-af53-46be-9361-b84adf760af0)
-![Screenshot (733)](https://github.com/user-attachments/assets/0ed8c7bb-b505-4f2d-881c-3360413281e4)
 
+
+![Screenshot (731)](https://github.com/user-attachments/assets/f10cb555-fb2f-46fa-ae59-facaeea692de)
+![Screenshot (732)](https://github.com/user-attachments/assets/34512c89-a019-464f-a28d-d39d57f8a859)
+![Screenshot (733)](https://github.com/user-attachments/assets/18c8949e-1a1b-45b5-a528-3d58510462ed)
